@@ -1,5 +1,5 @@
 <h1 align="center">
-  Gerador de Senha
+  App Gerador de Senha
 </h1>
 
 <p align="center">
